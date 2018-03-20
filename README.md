@@ -25,7 +25,7 @@ quot_tagger = korean_quot_tagger()
 ### **Managed by** 
 > Ministry of Science and ICT/XAIC
 ### **Participated Affiliation** 
-> UNIST, Korean Univ., Yonsei Univ., KAIST., AItrics
+> UNIST, Korea Univ., Yonsei Univ., KAIST., AItrics
 ### **Web Site** 
 > <http://openXai.org>
 
