@@ -9,7 +9,6 @@ Based on code by [Guilaume Lample](https://github.com/glample/tagger)
 This code extract experts and their mentions from sentences as fllow:
 <양기인 신한금융투자 리서치센터장:talker>은 29일 <"소재, 산업재 등 경기 민감주가 상승하는 가운데 IT 업종이 반등하면서 코스피지수가 최고치를 경신했다":quot>고 설명했다.
 
-
 ## Dataset
 We will use the Korean quoatation dataset.
 
